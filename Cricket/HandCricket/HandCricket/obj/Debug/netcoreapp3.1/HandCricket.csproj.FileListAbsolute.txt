@@ -1,0 +1,14 @@
+D:\Jeya\Cricket\HandCricket\HandCricket\bin\Debug\netcoreapp3.1\HandCricket.exe
+D:\Jeya\Cricket\HandCricket\HandCricket\bin\Debug\netcoreapp3.1\HandCricket.deps.json
+D:\Jeya\Cricket\HandCricket\HandCricket\bin\Debug\netcoreapp3.1\HandCricket.runtimeconfig.json
+D:\Jeya\Cricket\HandCricket\HandCricket\bin\Debug\netcoreapp3.1\HandCricket.runtimeconfig.dev.json
+D:\Jeya\Cricket\HandCricket\HandCricket\bin\Debug\netcoreapp3.1\HandCricket.dll
+D:\Jeya\Cricket\HandCricket\HandCricket\bin\Debug\netcoreapp3.1\HandCricket.pdb
+D:\Jeya\Cricket\HandCricket\HandCricket\obj\Debug\netcoreapp3.1\HandCricket.csproj.AssemblyReference.cache
+D:\Jeya\Cricket\HandCricket\HandCricket\obj\Debug\netcoreapp3.1\HandCricket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jeya\Cricket\HandCricket\HandCricket\obj\Debug\netcoreapp3.1\HandCricket.AssemblyInfoInputs.cache
+D:\Jeya\Cricket\HandCricket\HandCricket\obj\Debug\netcoreapp3.1\HandCricket.AssemblyInfo.cs
+D:\Jeya\Cricket\HandCricket\HandCricket\obj\Debug\netcoreapp3.1\HandCricket.csproj.CoreCompileInputs.cache
+D:\Jeya\Cricket\HandCricket\HandCricket\obj\Debug\netcoreapp3.1\HandCricket.dll
+D:\Jeya\Cricket\HandCricket\HandCricket\obj\Debug\netcoreapp3.1\HandCricket.pdb
+D:\Jeya\Cricket\HandCricket\HandCricket\obj\Debug\netcoreapp3.1\HandCricket.genruntimeconfig.cache
